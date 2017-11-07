@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         
         Log.d("MainActivity", "MainActivity1");
-        Log.d("MainActivity", "MainActivity2");
+        Log.d("MainActivity", "MainActivity3");
     }
 }
