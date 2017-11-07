@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         
         Log.d("MainActivity", "MainActivity1");
         Log.d("MainActivity", "MainActivity2");
+        Log.d("MainActivity", "MainActivity4");
 
     }
 }
